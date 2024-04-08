@@ -1,3 +1,3 @@
 pip install -r requirements.txt  
-python main.py
+python main.py  
 ![Ejemplo](readme.png)
